@@ -1,4 +1,8 @@
 Here's a new file i've created.
 It has some words in it!
 
+<<<<<<< HEAD
 Added a line locally
+=======
+Added a line remotely
+>>>>>>> cbad898b894d58d439f1eaaec14b5e96701199a4
